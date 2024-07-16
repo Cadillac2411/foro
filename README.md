@@ -1,4 +1,4 @@
-<h1 align="center"><em>Foro  📰:</em></h1>
+<h1 align="center"><em>Foro  📰</em></h1>
 Este proyecto se realizo una API REST con la tematica de foro, donde las personas podran consultar sus dudas, dar sugerencias e interactuar con mas personas.
 
 ## Caracteristicas
